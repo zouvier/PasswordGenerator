@@ -10,4 +10,4 @@ to being:
 `- cd into the folder `
 `- npm ci `
 
-`pgen -h` for the help menu 
+`pgen -h` - help menu 
