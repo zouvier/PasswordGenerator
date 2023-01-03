@@ -3,7 +3,6 @@ Password generator
 
 
 
-to being: 
 
 `- download repository`
 
